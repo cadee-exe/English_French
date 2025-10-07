@@ -1,0 +1,6 @@
+
+def spaces(y,t):
+    C=("occupied space")
+    "."== ("Free space")
+    
+spaces("CCC..", ".C.C.C")
