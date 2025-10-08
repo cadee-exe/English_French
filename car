@@ -1,6 +1,9 @@
-
 def spaces(y,t):
-    C=("occupied space")
-    "."== ("Free space")
-    
-spaces("CCC..", ".C.C.C")
+     if 1 ==y-t:
+        print("One space was occupied today and yesterday")
+        spaces("CCC..", ".C.C.C")
+
+def spaces(y, t):
+
+
+    spaces("CCC..", ".C.C.C")

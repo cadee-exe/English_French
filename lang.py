@@ -6,10 +6,13 @@ def lang(x):
             t+=1
         elif char == "s" or "S":
             s+=1
-    if t >s:
+    if t > s:
         print("english")
     else:
         print("france")
-lang("The red cat sat on the mat. Why are you so sad cat? Don't ask that.")
+lang("ttttttttttttTTTTTTTTTTTssssssssssssSSSSSSSSSSSSSSSS")
+
+
+
 
 
